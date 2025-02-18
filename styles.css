@@ -1,6 +1,18 @@
+* {
+    background-color: rgb(12, 12, 122);
+}
+
 h1 {
     text-align: center;
     font-size: 40px;
     font-family: "Times New Roman", serif;
     font-weight: 600;
+    color: white;
+    background-color: black;
+}
+
+.menu {
+    font-size: 30px;
+    font-style: italic;
+    color: white;
 }
