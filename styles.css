@@ -16,3 +16,41 @@ h1 {
     font-style: italic;
     color: white;
 }
+
+.back {
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro {
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+
+h2, h3 {
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    color: white;
+    background-color: black;
+}
+
+.ingredients, .steps, .source {
+    color: white;
+}
+
+.source {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+
